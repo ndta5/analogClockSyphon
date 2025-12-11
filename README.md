@@ -2,7 +2,7 @@
 
 This is an app that outputs an analog clock to Syphon.
 
-アナログ時計をNDIに出力するアプリです。
+アナログ時計をSyphonに出力するアプリです。
 
 # Usage
 
